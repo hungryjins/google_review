@@ -14,7 +14,6 @@ To assist users in understanding the overall sentiment and key opinions expresse
 3. 🌍 Translate all reviews to English using the Google Translate API.
 4. 🤖 Run sentiment classification using a BERT-based model.
 5. 🧠 Summarize reviews by sentiment class (Bart-based summarizer).
-6. 📊 Output final summaries for positive and negative sentiments.
 
 ## 📂 Folder Structure
 
@@ -30,12 +29,7 @@ To assist users in understanding the overall sentiment and key opinions expresse
 - `transformers`
 - `requests`
 - `pandas`
-- `matplotlib` (optional for charts)
 
-Install via:
-```bash
-pip install transformers requests pandas matplotlib
-```
 
 ## 📎 Example Output
 
