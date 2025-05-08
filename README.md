@@ -51,9 +51,6 @@ pip install transformers requests pandas matplotlib
 
 Please **do not expose your Google API Key** in any public repo. Replace it with `"YOUR_API_KEY_HERE"` before uploading.
 
-## 🧪 Colab Link
-
-[Click here to open in Colab](https://colab.research.google.com/...)
 
 ## 📈 Future Work
 
